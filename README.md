@@ -172,15 +172,7 @@ flutter run
 
 ---
 
-## 🎓 Academic Context
 
-> **Graduation Project** — Sadat Academy for Management and Sciences, Faculty of Management Sciences, Major: BIS
->
-> **Supervisor:** Dr. Heba Sabry
->
-> **Team:** Alaa Hamdi Fahmy Zaky · Adham Mustafa Muhammed Alazab · Mohamed Khaled Mohamed Mahdy · Fathy Ahmed Fathy Khalifa
-
----
 
 ## 🔮 Future Roadmap
 

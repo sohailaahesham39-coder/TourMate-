@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179234530731",
+    "project_id": "tour-matee",
+    "storage_bucket": "tour-matee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179234530731:android:0e1482f31aa83af0991eee",
+        "android_client_info": {
+          "package_name": "com.example.tour_matee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ht1PyTKTeExjbx1nj_kog2vFLn-sdjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
